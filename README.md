@@ -1,5 +1,5 @@
 # Go-Github
-treinamento React Native
+Treinando React Native
 
 start project
 react-native start
